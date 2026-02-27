@@ -1,4 +1,4 @@
-# ayejay-odds
+# Cpp23_Module-Modular_Modern_Odds_Lib
 
 Small, fast C++23 "1 in N" odds library (header-only core), with optional C++23 module wrapper.
 
